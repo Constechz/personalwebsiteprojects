@@ -1,0 +1,99 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Montserrat ;
+    background-color: #646262;
+}
+
+
+.pic{
+
+    padding-top: 20px;
+    display: block;
+    text-align: center;
+}
+
+.pic img{
+
+    width: 150px;
+    height: auto;
+  
+}
+
+h2{
+
+    color: #ffffff;
+    text-align: center;
+   
+}
+
+#text1{
+
+
+    text-align: center;
+    padding-top: 10px;
+    color: #F9D94A;
+    padding-bottom: 20px;
+ 
+}
+
+
+#text2{
+
+    color:#E7F5F5;
+    text-align: center;
+    font-size: 13px;
+  
+}
+
+.main{
+
+   text-align: center;
+   padding-top: 30px;
+   
+}
+
+.container{
+
+    background: #F9D94A;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+   
+}
+
+.front{
+
+     background: #F9D94A;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.link{
+
+     background: #F9D94A;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+   
+}
+
+.twitter{
+     background: #F9D94A;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+   
+}
+
+.instagram{
+
+     background: #F9D94A;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+   
+}
